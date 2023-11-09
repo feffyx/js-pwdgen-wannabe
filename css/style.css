@@ -4,9 +4,19 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color:#e5e5e5 ;
+}
+
 .container{
     border: 2px #ccc solid;
     padding-top: 10px;
     padding-bottom: 14px;
     border-radius: 10px;
 }
+
+.accordion-button:not(.collapsed) {
+    background-color: white;
+
+}
+
