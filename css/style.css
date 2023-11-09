@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px #ccc solid;
+    padding-top: 10px;
+    padding-bottom: 14px;
+    border-radius: 10px;
+}
